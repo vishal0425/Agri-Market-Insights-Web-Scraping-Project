@@ -69,5 +69,5 @@ This project helps solve this by using **real market data and visual insights**.
 ## 👨‍💻 Author  
 **Vishal Chavanke**  
 Data Analyst | Python & SQL Enthusiast  
-Passionate about solving real-world problems with data.
+Focused on turning confusion into clarity through analytical thinking.
 
