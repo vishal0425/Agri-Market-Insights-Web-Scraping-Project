@@ -28,7 +28,7 @@ This project helps solve this by using **real market data and visual insights**.
 
 ---
 
-## 🛠️ Tools & Technologies  
+## 🛠️ Tools & Technologies
 | Task | Tools Used |
 |------|------------|
 | Web Scraping | Python, Requests, BeautifulSoup |
