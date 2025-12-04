@@ -1,4 +1,4 @@
-# 🌾 Agri-Market Insights using Web Scraping (Agmarknet Data Analysis)
+# 🌾 Agri-Market Insights using Python Web Scraping (Agmarknet Data Analysis)
 
 ## 📌 Project Overview  
 Farmers often don’t know which market gives them the best price for their crops.  
